@@ -16,4 +16,4 @@ You can click the Preview link to take a look at your changes.
 
 <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavonvp&langs_count=16&theme=react&line_height=40&hide=css"/> </a>
 <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=gustavonvp&theme=react&line_height=40&hide=css"/> </a>
-<img align="center" height="40" src="https://github-readme-streak-stats/?username=gustavonvp&theme=dracula"/>
+![gustavonvp's Streak](https://github-readme-streak-stats.herokuapp.com/?user=gustavonvp&theme=vue-dark&hide_border=true)
