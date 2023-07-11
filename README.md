@@ -15,5 +15,5 @@ You can click the Preview link to take a look at your changes.
 --->
 
 <a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=gustavonvp&langs_count=16&theme=react&line_height=60&hide=css"/> </a>
-<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=gustavonvp&theme=react&line_height=40&hide=css"/> </a>
-<img align="center" height="170" src="https://github-readme-stats.vercel.app/api/?username=gustavonvp&theme=dracula"/>
+<a href=""><img align="center" src="https://github-readme-stats-sigma-five.vercel.app/api/?username=gustavonvp&theme=react&line_height=170&hide=css"/> </a>
+<img align="center" height="170" src="https://github-readme-stats/api/?username=gustavonvp&theme=dracula"/>
