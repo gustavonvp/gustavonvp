@@ -9,4 +9,4 @@ gustavonvp/gustavonvp is a ✨ special ✨ repository because its `README.md` (t
 You can click the Preview link to take a look at your changes.
 --->
 
-[![Gustavonvp's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavonvp)](https://github.com/gustavonvp/github-readme-stats)
+![gustavonvp's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavonvp)](https://github.com/gustavonvp/github-readme-stats)
