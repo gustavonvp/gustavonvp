@@ -1,5 +1,6 @@
-https://camo.githubusercontent.com/33b9fae5e152b2782ba90fcbdc76bdb52e6c20da6c0ac730b27aff60ddb8c092/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f786f6e4f7a7866324d38684e752f67697068792e676966
-
+<div style="text-align:center">
+<img src="https://media.giphy.com/media/xonOzxf2M8hNu/giphy.gif" alt="Logo do GitHub" width="400" height="200"  center/>
+</div>
 
 
 - 👋 Hi, I’m @gustavonvp
