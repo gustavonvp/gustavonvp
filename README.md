@@ -1,5 +1,5 @@
 
-![Gustavonvp's GitHub stats](https://github-readme-stats.vercel.app/api?username=gustavonvp&show_icons=true&theme=radical)
+(https://camo.githubusercontent.com/33b9fae5e152b2782ba90fcbdc76bdb52e6c20da6c0ac730b27aff60ddb8c092/68747470733a2f2f6d656469612e67697068792e636f6d2f6d656469612f786f6e4f7a7866324d38684e752f67697068792e676966)
 
 
 
